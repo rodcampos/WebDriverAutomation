@@ -4,6 +4,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
 using WebDriverAutomation.PageObjects;
+using WebDriverAutomation.Helpers;
 
 [TestFixture]
 public class Test
@@ -29,9 +30,8 @@ public class Test
     [SetUp]
     public void Setup()
     {
-        driver = new ChromeDriver("./");
+        driver = new Driver().LaunchDriver();
         url = "https://www.redmine.org/";
-        driver.Manage().Window.Maximize();
     }
 
     [TearDown]
