@@ -1,0 +1,14 @@
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\WebDriverAutomation.deps.json
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\WebDriverAutomation.runtimeconfig.json
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\WebDriverAutomation.runtimeconfig.dev.json
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\WebDriverAutomation.dll
+c:\Users\rcampos\Documents\WebDriverAutomation\bin\Debug\netcoreapp2.2\WebDriverAutomation.pdb
+c:\Users\rcampos\Documents\WebDriverAutomation\obj\Debug\netcoreapp2.2\WebDriverAutomation.csprojAssemblyReference.cache
+c:\Users\rcampos\Documents\WebDriverAutomation\obj\Debug\netcoreapp2.2\WebDriverAutomation.csproj.CoreCompileInputs.cache
+c:\Users\rcampos\Documents\WebDriverAutomation\obj\Debug\netcoreapp2.2\WebDriverAutomation.AssemblyInfoInputs.cache
+c:\Users\rcampos\Documents\WebDriverAutomation\obj\Debug\netcoreapp2.2\WebDriverAutomation.AssemblyInfo.cs
+c:\Users\rcampos\Documents\WebDriverAutomation\obj\Debug\netcoreapp2.2\WebDriverAutomation.dll
+c:\Users\rcampos\Documents\WebDriverAutomation\obj\Debug\netcoreapp2.2\WebDriverAutomation.pdb
