@@ -16,7 +16,7 @@ public class Test
     {
         try
         {
-        driver.Navigate().GoToUrl(url);
+        //driver.Navigate().GoToUrl(url);
         Home HomePage = new Home(driver);
         Register register = HomePage.ClickLnk_Register(driver);   
         Assert.IsTrue(register.header_Register.Displayed);
