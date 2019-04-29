@@ -30,7 +30,7 @@ public class Test
     [SetUp]
     public void Setup()
     {
-        driver = new Driver().LaunchDriver();
+        driver = new DriverHelper().LaunchDriver();
         url = "https://www.redmine.org/";
     }
 

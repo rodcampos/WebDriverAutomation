@@ -7,7 +7,7 @@ using WebDriverAutomation.PageObjects;
 
 namespace WebDriverAutomation.Helpers
 {
-    public class Driver
+    public class DriverHelper
     {
         private IWebDriver DriverInstance;
         public IWebDriver LaunchDriver()
