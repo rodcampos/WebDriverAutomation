@@ -1,3 +1,9 @@
 {
-    "workbench.editor.highlightModifiedTabs": true
+    "workbench.editor.highlightModifiedTabs": true,
+
+    "cucumberautocomplete.steps": [
+        "WebDriverAutomation/Features/step_definitions/*.cs"
+    ],
+    "cucumberautocomplete.syncfeatures": "WebDriverAutomation/Features/*feature",
+    "cucumberautocomplete.strictGherkinCompletion": true
 }

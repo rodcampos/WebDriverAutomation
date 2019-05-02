@@ -21,11 +21,25 @@ namespace WebDriverAutomation.PageObjects
                return driver.FindElement(By.XPath("//a[@class='register']"));
            }
        }
+
+       public IWebElement lnk_SignIn
+       {
+           get
+           {
+               return driver.FindElement(By.XPath("//a[@class='login']"));
+           }
+       }
     
        public Register ClickLnk_Register(IWebDriver driver)
        {
            lnk_Register.Click();
            return new Register(driver);
+       }
+
+       public SignIn ClickLnk_SignIn(IWebDriver driver)
+       {
+           lnk_SignIn.Click();
+           return new SignIn(driver);
        }
     }
 }
